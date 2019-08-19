@@ -10,6 +10,7 @@
 ##  这是英语道德经的学习 
 
 1.  [DaoDejing1](src/assets/img/lesson1.png)  
+2.  [DaoDejing2](src/assets/img/lesson2.png)  
 
 ## 我的个人博客  
 

@@ -8,6 +8,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 ##  Learning English Dao De jing
 
 1.  [DaoDejing1](src/assets/img/lesson1.png)  
+2.  [DaoDejing2](src/assets/img/lesson2.png)  
 
 ## Personal Blog  
 
