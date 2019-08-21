@@ -1,3 +1,5 @@
+[简体中文](README.md) |  English  
+
 <p align="center">
     <img width="300" src="src/assets/img/yanyunchangfeng.png">
 </p>
@@ -9,6 +11,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 
 1.  [DaoDejing1](src/assets/img/lesson1.png)  
 2.  [DaoDejing2](src/assets/img/lesson2.png)  
+3.  [DaoDejing3](src/assets/img/lesson3.png)  
 
 ## Personal Blog  
 

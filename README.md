@@ -1,3 +1,5 @@
+[English](README.en.md) | 简体中文   
+
 <p align="center">
     <img width="300" src="src/assets/img/yanyunchangfeng.png">
 </p>
@@ -11,6 +13,7 @@
 
 1.  [DaoDejing1](src/assets/img/lesson1.png)  
 2.  [DaoDejing2](src/assets/img/lesson2.png)  
+3.  [DaoDejing3](src/assets/img/lesson3.png)  
 
 ## 我的个人博客  
 
