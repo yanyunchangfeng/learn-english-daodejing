@@ -14,6 +14,7 @@
 1.  [DaoDejing1](src/assets/img/lesson1.png)  
 2.  [DaoDejing2](src/assets/img/lesson2.png)  
 3.  [DaoDejing3](src/assets/img/lesson3.png)  
+4.  [DaoDejing4](src/assets/img/lesson4.png)  
 
 ## 我的个人博客  
 
