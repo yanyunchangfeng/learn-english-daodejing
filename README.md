@@ -1,7 +1,7 @@
 [English](README.en.md) | 简体中文   
 
 <p align="center">
-    <img width="300" src="src/assets/img/yanyunchangfeng.png">
+    <img width="300" src="https://cdn.jsdelivr.net/gh/yanyunchangfeng/cdn@1.0/assets/img/blog/yycf/yanyunchangfeng.png">
 </p>
 
 ##  介绍
@@ -15,6 +15,7 @@
 2.  [DaoDejing2](src/assets/img/lesson2.png)  
 3.  [DaoDejing3](src/assets/img/lesson3.png)  
 4.  [DaoDejing4](src/assets/img/lesson4.png)  
+4.  [DaoDejing5](src/assets/img/lesson5.png)  
 
 ## 我的个人博客  
 
