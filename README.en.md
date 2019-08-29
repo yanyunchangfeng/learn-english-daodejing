@@ -17,6 +17,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 6.  [DaoDejing6](src/assets/img/lesson6.png)  
 7.  [DaoDejing7](src/assets/img/lesson7.png)  
 8.  [DaoDejing8](src/assets/img/lesson8.png)  
+9.  [DaoDejing8](src/assets/img/lesson9.png)  
 
 ## Personal Blog  
 
