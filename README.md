@@ -22,6 +22,7 @@
 9.  [DaoDejing9](src/assets/img/lesson9.png) 
 10. [DaoDejing10](src/assets/img/lesson10.png)  
 11. [DaoDejing11](src/assets/img/lesson11.png)  
+12. [DaoDejing11](src/assets/img/lesson12.png)  
 
 ## 我的个人博客  
 
