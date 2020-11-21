@@ -33,6 +33,7 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 22. [DaoDejing22](src/assets/img/lesson22.png)  
 23. [DaoDejing23](src/assets/img/lesson23.png) 
 24. [DaoDejing24](src/assets/img/lesson24.png)  
+25. [DaoDejing25](src/assets/img/lesson25.png)  
 
 ## Personal Blog  
 
