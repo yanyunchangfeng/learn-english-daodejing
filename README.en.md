@@ -35,10 +35,6 @@ Meaning：combined Li Bai's famous frontier poem to take [Yan Yun Chang feng] - 
 24. [DaoDejing24](src/assets/img/lesson24.png)  
 25. [DaoDejing25](src/assets/img/lesson25.png)  
 
-## Personal Blog  
-
-* [Yan Yun Chang feng](https://yanyunchangfeng.github.io) 
-
 ## Series Project
 
 1. [NiceFish]( https://gitee.com/mumu-osc/NiceFish)：Mermaid, this is a microblogging system with a front end based on Angular 7.0 + PrimeNG 7.1.0（GVIP  gitee most valuable open source project 3192 ☆)

@@ -37,9 +37,6 @@
 24. [DaoDejing24](src/assets/img/lesson24.png)  
 25. [DaoDejing25](src/assets/img/lesson25.png)  
 
-## 我的个人博客  
-
-* [燕云长风](https://yanyunchangfeng.github.io) 
 
 ## 我参与的系列项目
 
